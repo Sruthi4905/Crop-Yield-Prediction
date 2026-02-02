@@ -1,3 +1,6 @@
+## 📂 Project Structure
+
+```text
 crop-yield-prediction/
 │
 ├── app/                # Application routing and pages
@@ -14,4 +17,4 @@ crop-yield-prediction/
 ├── next.config.mjs     # Next.js configuration
 ├── tailwind.config.ts  # Tailwind configuration
 └── README.md           # Project documentation
-
+```
